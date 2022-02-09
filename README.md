@@ -22,8 +22,8 @@ I'm currently active in Machine Learning Path Participant at Bangkit Academy led
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/mzidni100701">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzidni100701&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzidni100701&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mzidni100701&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mzidni100701&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
