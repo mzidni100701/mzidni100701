@@ -1,14 +1,14 @@
 ### Hi! 👋 I'm Zidni.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I am a learner who in Statistics Departement at Universitas Sebelas Maret. I want to be the best lerner that pleases Allah SWT. I've interested Data Science and Analytics to make visualization and modelling project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently active in Machine Learning Path Participant at Bangkit Academy led By Google, Tokopedia, Gojek, & Traveloka.
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 🌱 I’m currently learning about Data Science and Analytics
+- 💬 Feel free to ask me about visualization and modelling
+- 📫 How to reach me: mzidni100701@student.uns.ac.id
+- ⚡ Fun fact: Beneficial to others it's noble
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
