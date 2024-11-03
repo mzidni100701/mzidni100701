@@ -4,7 +4,6 @@ I am Data Enthusiasts. I want to be the best lerner that pleases Allah SWT. I've
 
 I'm currently active in Business Intelligence, Data Analytics, Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Artificial Intelligence Path at Big Tech Company.
 
-- 🔭 I’m currently studying on Universitas Sebelas Maret
 - 🌱 I’m currently learning about Data Science and Analytics
 - 💬 Feel free to ask me about visualization and modelling
 - 📫 How to reach me: mzidni100701@gmail.com
