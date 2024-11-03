@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Zidni.
 
-I am a learner who in Statistics Departement at Universitas Sebelas Maret. I want to be the best lerner that pleases Allah SWT. I've interested Data Science and Analytics to make visualization and modelling project.
+I am Data Enthusiasts. I want to be the best lerner that pleases Allah SWT. I've interested Data Science and Analytics to make visualization and modelling project.
 
 I'm currently active in Machine Learning Path Participant at Bangkit Academy led By Google, Tokopedia, Gojek, & Traveloka.
 
