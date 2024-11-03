@@ -29,5 +29,5 @@ I'm currently active in Machine Learning Path Participant at Bangkit Academy led
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/muhammad-zidni-subarkah-b08b34142/">LinkedIn</a>
-- mzidni100701@student.uns.ac.id
+- mzidni100701@gmail.com
 - <a href="https://www.instagram.com/m_zidni.s">Instagram</a>
