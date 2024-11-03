@@ -7,7 +7,7 @@ I'm currently active in Machine Learning Path Participant at Bangkit Academy led
 - 🔭 I’m currently studying on Universitas Sebelas Maret
 - 🌱 I’m currently learning about Data Science and Analytics
 - 💬 Feel free to ask me about visualization and modelling
-- 📫 How to reach me: mzidni100701@student.uns.ac.id
+- 📫 How to reach me: mzidni100701@gmail.com
 - ⚡ Fun fact: Beneficial to others it's noble
 
 ### Tech Stack
